@@ -2,8 +2,9 @@
 ```
 MERN Stack = React, Express, NodeJs, MongoDB 기반의 풀스텍 
 back-end영역의 Server side와 front-end 영역의 Client side 나누어 관리 
+
 Start : 1. cd server 
-        2. npm start or yarn start
+        2. npm run start or yarn run start
         3. cd client  
-        4. npm start or yarn start  
+        4. npm run start or yarn run start  
 ```
